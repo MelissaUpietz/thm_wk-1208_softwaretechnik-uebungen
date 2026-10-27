@@ -2,10 +2,7 @@
 
 Mitgearbeitet haben (GitHub-Benutzernamen, auch bei Einzelarbeit): @MelissaUpietz
 
-<!-- Je Abschnitt Ihrer Gliederung eine Überschrift (## für Abschnitte, ###
-     für Unterabschnitte) und darunter ein Beispiel aus dem Terminplaner,
-     d.h. so, wie Sie den Sachverhalt in diesem Abschnitt festhalten würden.
-     Die beiden Überschriften unten sind lediglich Platzhalter. -->
+
 
 ## Die Aufgabe der Software
 Die Software soll die Planung und Buchung von Sprechstunden und Prüfungsterminen an der THM vereinfachen.
